@@ -1,0 +1,8 @@
+# Dependencias de la API REST Backend
+flask>=3.0.0
+flask-cors>=4.0.0
+tensorflow>=2.16.0
+pillow>=10.1.0
+numpy>=1.26.0
+gunicorn>=21.2.0
+requests>=2.31.0
